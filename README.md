@@ -26,7 +26,8 @@ Feel free to submit pull requests to me.
 
 ## Authors
 
-* **Muhammad Haseeb** - *Initial work* - [Muhammad Haseeb](https://github.com/iam-mhaseeb)
+* **Muhammad Haseeb** - [Muhammad Haseeb](https://github.com/iam-mhaseeb)
+* **Udacity Pytorch Scholarship Challenge Team**
 
 
 ## License
