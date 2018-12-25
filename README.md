@@ -6,6 +6,7 @@ In this notebook, we predict student admissions to graduate school at UCLA based
 3. Class rank (1-4)
 The dataset originally came from here: http://www.ats.ucla.edu/
 <br>
+
 ## Getting Started
 
 To use this repo just download the repository, open in jupyter notebook. Start creating something awesome! Good Luck!
